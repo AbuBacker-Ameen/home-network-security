@@ -1,6 +1,8 @@
 # Home Network Security Project
 
-A comprehensive project designed to enhance the security and privacy of a home network using a Raspberry Pi server. This project integrates multiple tools and configurations to provide advanced network monitoring, DNS privacy, and secure access.
+This project is currently under development. Features and configurations are being refined to ensure the highest levels of security and performance.
+
+A project designed to enhance the security and privacy of a home network using a Raspberry Pi server. This project integrates multiple tools and configurations to provide advanced network monitoring, DNS privacy, and secure access.
 
 ---
 
