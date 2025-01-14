@@ -244,6 +244,10 @@ Below is a simplified text-based diagram of the network setup, highlighting Unbo
 
 ## **Next Steps**
 
+- **Monitor Traffic**:
+
+   - Deploy Suricata for intrusion detection.
+
 - **Integrate WireGuard VPN**:
 
   - Redirect DNS queries through an encrypted tunnel.
